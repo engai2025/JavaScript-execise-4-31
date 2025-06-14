@@ -11,7 +11,7 @@
 ## Group A
 
 ***
-[github Link](https://github.com/engai2025/Js_Exercises_Project)
+[github Link](https://github.com/engai2025/JavaScript-execise-4-31)
 ***
 
 
