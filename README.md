@@ -22,7 +22,7 @@
     ["Red", "Blue", "Green"]
     "Red"
     "Blue"
-    "Green"
+    "Green" 
     ```
 
 ---
